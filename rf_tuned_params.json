@@ -1,0 +1,1 @@
+{"tuned_rf_0": {"n_estimators": 200, "criterion": "entropy", "min_samples_leaf": 2, "bootstrap": false, "max_depth": 90, "max_features": "sqrt", "min_samples_split": 5}, "tuned_rf_25": {"n_estimators": 200, "criterion": "gini", "min_samples_leaf": 1, "bootstrap": true, "max_depth": 30, "max_features": "auto", "min_samples_split": 5}}
